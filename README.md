@@ -33,14 +33,6 @@ This Power BI project provides a comprehensive analysis of Uber trip data to unc
 
 ---
 
-## 📁 Files Included
-
-- `Uber_Trip_Analysis.pbix` – Power BI report file  
-- `Screenshots/` – Dashboard visuals (Overview, Time, and Detail pages)  
-- `README.md` – Project documentation  
-
----
-
 ## 🛠 Tools Used
 
 - **Power BI** – Data modeling, DAX calculations, visuals, dashboard creation  
